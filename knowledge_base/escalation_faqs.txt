@@ -1,0 +1,343 @@
+================================================================================
+SMART ROUTE SERVICE — ESCALATION & SUPPORT FAQs
+================================================================================
+Business : Smart Route Service
+Coverage : Mumbai, Kalyan, and Thane
+Hours    : Monday to Saturday, 9:00 AM – 7:00 PM (Closed Sundays)
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 1: SPEAKING TO A HUMAN AGENT
+────────────────────────────────────────────────────────────────────────────────
+
+Q1: Can I speak to a real person instead of the chatbot?
+A: Absolutely. If you prefer to speak with a human support agent, simply say
+   "I want to speak to an agent" or "Connect me to a human" at any point during
+   the chat. Our system will immediately flag your request and connect you with
+   the right support team member based on your concern.
+
+Q2: How do I request to escalate my issue to a manager?
+A: You can request a manager at any time by typing something like "I want to
+   speak to a manager" or "Please escalate this to a supervisor." Our system
+   detects these requests automatically and routes your case to a Senior Support
+   Agent or Support Manager depending on the nature of your issue.
+
+Q3: Will the chatbot ever pass my issue to a human without me asking?
+A: Yes. Our chatbot continuously monitors the conversation for signs of
+   frustration, urgency, or unresolved problems. If it detects these signals —
+   even if you haven't explicitly asked — it will automatically escalate your
+   case to the appropriate team so a human can follow up with you promptly.
+
+Q4: What hours can I reach a human support agent?
+A: Human agents are available Monday to Saturday, 9:00 AM to 7:00 PM. If you
+   contact us outside these hours, your escalation will be logged and a team
+   member will reach out to you on the next working day.
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 2: HOW ESCALATION WORKS
+────────────────────────────────────────────────────────────────────────────────
+
+Q5: What happens when my chat is escalated?
+A: When your issue is escalated, our system:
+   1. Captures your full conversation history for context.
+   2. Assesses the seriousness of the issue (Level 1 to 4).
+   3. Sends an automated alert email to the appropriate team member.
+   4. That team member then reaches out to you via your registered contact.
+
+Q6: What are the different escalation levels?
+A: Smart Route Service uses a 4-tier escalation system:
+
+   Level 1 — Tier 1 Support
+   Triggered when the chatbot cannot find an answer to a general query and
+   there is no sign of frustration or urgency. A basic support agent will
+   follow up.
+
+   Level 2 — Senior Support Agent
+   Triggered when mild frustration is detected — e.g., the customer is
+   dissatisfied but remains calm. A more experienced agent will handle it.
+
+   Level 3 — Support Manager
+   Triggered when there is clear anger, a repeated unresolved issue, or a
+   financial/legal concern. A Support Manager will personally review and
+   respond.
+
+   Level 4 — Business Director
+   Triggered in the most serious situations: abusive language, legal threats,
+   safety concerns, or issues that could affect multiple customers. The
+   Business Director is alerted immediately.
+
+Q7: How quickly will someone get back to me after escalation?
+A: Response times vary by level:
+   - Level 1 & 2: Within 2–4 business hours during working hours.
+   - Level 3: Within 1–2 business hours, priority handling.
+   - Level 4: Immediate attention; you will be contacted as soon as possible.
+
+Q8: Will I be informed when my issue has been escalated?
+A: Yes. The chatbot will notify you in the chat that your issue has been
+   escalated and that a team member will contact you. You may also receive
+   a follow-up call or email on your registered contact details.
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 3: FRUSTRATION, URGENCY & EMOTIONAL SIGNALS
+────────────────────────────────────────────────────────────────────────────────
+
+Q9: What if I'm very frustrated and the chatbot is not helping?
+A: We understand how frustrating unresolved issues can be. If you express
+   frustration — even mildly, e.g., "This is taking too long" or "I've been
+   waiting for days" — our system automatically detects this and escalates
+   your case to a Senior Support Agent or higher, depending on the situation.
+   You don't need to repeat yourself; we're already on it.
+
+Q10: I said "this is ridiculous" — will that affect my case?
+A: Yes, in a positive way. Expressions of frustration or mild anger are treated
+   as signals that you need more immediate human attention. Our escalation engine
+   picks up on these phrases and routes your case to the appropriate team level
+   so you get a faster, more personalised response.
+
+Q11: What if my issue is urgent and needs to be fixed today?
+A: Phrases like "I need this fixed today," "This is urgent," or "I need this
+   sorted immediately" are detected as urgency signals. Your case will be
+   escalated and prioritised accordingly. Please make sure to mention the
+   specific issue so our team can prepare before reaching out.
+
+Q12: I threatened to post about this on social media. What will happen?
+A: Statements about filing complaints, contacting consumer forums, or posting
+   on social media are taken seriously. Your case will be escalated to at least
+   a Level 3 (Support Manager) and potentially Level 4 (Business Director),
+   ensuring senior leadership is aware and takes personal responsibility for
+   resolving your issue.
+
+Q13: Is there a safety-related concern I can report through the chatbot?
+A: Yes. If you have any safety-related concern — such as damaged equipment,
+   electrical issues with a router, or anything that poses a risk to you or
+   others — please describe it in the chat. Safety concerns are treated as the
+   highest priority (Level 4) and are escalated to the Business Director
+   immediately.
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 4: LEGAL & COMPLAINT-RELATED QUERIES
+────────────────────────────────────────────────────────────────────────────────
+
+Q14: I'm considering legal action. Will the chatbot handle this?
+A: If you mention legal action, consulting a lawyer, or filing a formal
+   complaint, your case is automatically escalated to a Support Manager or
+   Business Director (Level 3 or 4). A senior representative will contact
+   you directly to address your concern and work towards a resolution before
+   things go further.
+
+Q15: How do I file a formal complaint with Smart Route Service?
+A: You can initiate a formal complaint through the chatbot by stating clearly
+   that you wish to file a complaint. Your case will be escalated immediately
+   to a Support Manager. You will receive a complaint reference number and a
+   follow-up within the next business day.
+
+Q16: What if my issue has not been resolved despite multiple contacts?
+A: Repeated failed attempts to resolve an issue are flagged by our system.
+   If your conversation history shows unresolved interactions, your case is
+   automatically elevated to a Level 3 (Support Manager) escalation, ensuring
+   fresh eyes and greater authority are applied to your problem.
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 5: CHATBOT LIMITATIONS & KNOWLEDGE GAPS
+────────────────────────────────────────────────────────────────────────────────
+
+Q17: What happens if the chatbot doesn't know the answer to my question?
+A: If the chatbot cannot find a confident answer in our knowledge base, it will
+   not guess or provide incorrect information. Instead, it will automatically
+   escalate your query to a Tier 1 Support agent (Level 1) who has access to
+   broader resources and can provide an accurate answer.
+
+Q18: Why did the chatbot say it's connecting me to support even though I didn't
+     ask?
+A: Our system proactively escalates when it cannot confidently answer a query or
+   detects emotional signals in the conversation. This ensures you always receive
+   accurate, human-verified help rather than an incorrect automated response.
+
+Q19: Can the chatbot handle billing or account-related issues?
+A: The chatbot can answer general questions about billing, plans, and accounts.
+   However, for sensitive actions — such as account changes, payment disputes,
+   or billing discrepancies — the chatbot will connect you to a human agent who
+   has the authority and tools to make those changes securely.
+
+Q20: Is the chatbot available 24/7?
+A: Yes, the Smart Route Service chatbot is available around the clock. You can
+   start a conversation and have your issue escalated at any time of day or
+   night. Human follow-ups will occur during business hours: Monday to Saturday,
+   9:00 AM – 7:00 PM.
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 6: DATA, PRIVACY & CONVERSATION RECORDS
+────────────────────────────────────────────────────────────────────────────────
+
+Q21: Is my chat conversation saved?
+A: Yes. Conversation history is retained to provide context to our support
+   agents when your case is escalated. This ensures you do not have to repeat
+   yourself. Conversation data is used solely for support purposes and is
+   handled in line with our privacy policy.
+
+Q22: Who sees my conversation when my case is escalated?
+A: When escalated, your conversation history is shared with the assigned support
+   team member (Tier 1 agent, Senior Agent, Support Manager, or Business
+   Director, depending on the level). This helps them understand the full
+   context of your issue without you needing to re-explain everything.
+
+Q23: Can I request that my conversation not be used?
+A: For privacy-related requests, please speak directly with our support team.
+   Contact us during business hours (Monday to Saturday, 9:00 AM – 7:00 PM)
+   and a representative will guide you through the process.
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 7: TIPS FOR FASTER RESOLUTION
+────────────────────────────────────────────────────────────────────────────────
+
+Q24: How can I get my issue resolved as quickly as possible?
+A: To help us resolve your issue faster:
+   - Clearly describe the problem (e.g., "My internet has been down since
+     yesterday morning at 10 AM").
+   - Provide your account number or registered phone number when asked.
+   - Mention if the issue has happened before or if it is recurring.
+   - Let us know if the issue is urgent and why (e.g., working from home,
+     important meeting).
+   The more context you provide, the better equipped our team will be to
+   resolve your issue on the first contact.
+
+Q25: What if I'm calm but my issue is still serious?
+A: Escalation is not based solely on emotional tone. If you calmly describe a
+   serious issue — such as a prolonged outage, financial impact, or a safety
+   concern — our system assesses the content of your message and escalates
+   to the appropriate level. You don't need to be upset for your issue to
+   receive priority attention.
+
+Q26: I've already spoken to someone before but the issue is still not fixed.
+     What should I do?
+A: Please mention in the chat that this is a recurring or previously reported
+   issue and provide any reference numbers if available. Our system will
+   escalate this as a repeated unresolved case (Level 3), which triggers a
+   Support Manager review to ensure the issue is finally resolved.
+
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 8: GREETINGS & LIGHT CONVERSATION
+────────────────────────────────────────────────────────────────────────────────
+
+User: Hi
+Response: Hi there! 👋 Welcome to Smart Route Service support. How can I help
+          you today? Whether it's a technical issue, billing question, or
+          anything else — I'm here to assist!
+
+User: Hello
+Response: Hello! 😊 Great to have you here. I'm the Smart Route Service virtual
+          assistant. What can I help you with today?
+
+User: Hey
+Response: Hey! 👋 You've reached Smart Route Service support. Feel free to ask
+          me anything about your internet connection, router setup, or account —
+          I'm happy to help.
+
+User: Good morning
+Response: Good morning! ☀️ Hope you're having a great start to the day. I'm
+          here whenever you're ready. What can I assist you with today?
+
+User: Good afternoon
+Response: Good afternoon! 🌤️ Welcome to Smart Route Service. What can I help
+          you with today?
+
+User: Good evening
+Response: Good evening! 🌙 Thanks for reaching out to Smart Route Service.
+          What's on your mind? I'm here to help.
+
+User: How are you?
+Response: I'm doing great, thanks for asking! 😄 I'm your Smart Route Service
+          virtual assistant, always ready to help. How about you — is there
+          anything I can assist you with today?
+
+User: What's up?
+Response: All good on my end! 😊 I'm your Smart Route Service assistant,
+          here to sort out any connection issues, answer questions, or pass
+          you to the right person. What can I do for you?
+
+User: Who are you? / What are you?
+Response: I'm the Smart Route Service virtual support assistant! 🤖 I'm here
+          to help customers in Mumbai, Kalyan, and Thane with internet issues,
+          router setup, billing queries, and more. If I can't help directly,
+          I'll connect you with the right person on our support team.
+
+User: Are you a bot? / Are you a human?
+Response: I'm a virtual assistant — an AI chatbot built to support Smart Route
+          Service customers. 🤖 I can answer most common questions instantly,
+          but if you'd prefer to speak with a human agent, just say the word
+          and I'll connect you right away!
+
+User: Thanks / Thank you
+Response: You're very welcome! 😊 Is there anything else I can help you with?
+          We're always happy to assist.
+
+User: Thank you so much
+Response: It's my pleasure! 🙏 If you ever run into any issues or have more
+          questions, don't hesitate to reach out. We're here for you!
+
+User: Okay / Got it / Alright
+Response: Great! 😊 Let me know if there's anything else I can help you with.
+          I'm just a message away.
+
+User: Bye / Goodbye / See you
+Response: Take care! 👋 If you ever need help again, Smart Route Service is
+          always here. Have a wonderful day!
+
+User: Okay, bye / Thanks, bye
+Response: Glad I could help! 😊 Have a great day, and don't hesitate to reach
+          out if you need anything in the future. Goodbye! 👋
+
+User: I'm just browsing / Just checking
+Response: No worries at all! 😊 Take your time. If any questions come up about
+          your service, connection, or account, I'm right here whenever you're
+          ready.
+
+User: Can you help me?
+Response: Of course! That's exactly what I'm here for. 😊 Please go ahead and
+          describe your issue or ask your question, and I'll do my best to
+          assist you straight away.
+
+User: I have a problem / I need help
+Response: I'm sorry to hear that — let's get it sorted! 🛠️ Please describe
+          your issue in as much detail as you can (for example: what's happening,
+          since when, and what you've already tried), and I'll find the best way
+          to help you.
+
+User: I'm not sure / I don't know what to ask
+Response: No problem at all! Here are a few things I can help you with:
+          - 🌐 Internet not working or running slowly
+          - 📡 Router setup or configuration
+          - 🧾 Billing or account questions
+          - 📞 Scheduling a technician visit
+          - 📋 Checking the status of an existing request
+          Just pick one or describe what's going on — I'll take it from there!
+
+User: Hello, is anyone there?
+Response: Yes, I'm here! 😊 You've reached the Smart Route Service virtual
+          assistant. I'm ready to help you right now. What can I do for you?
+
+User: Hii / Heyyy / Hellooo (informal variants)
+Response: Hey hey! 😄 Welcome to Smart Route Service support. What's going on?
+          I'm here to help with any internet or router issues you might have.
+
+User: lol / haha / 😂
+Response: 😄 Ha! Glad to bring a smile. But seriously, I'm here whenever you
+          need help with your Smart Route Service. What can I assist you with?
+
+User: ok thanks, i'll call later
+Response: Sounds good! 📞 Our support team is available Monday to Saturday,
+          9:00 AM – 7:00 PM. You can also chat with us here anytime. Take care!
+
+
+================================================================================
+END OF ESCALATION FAQ DOCUMENT
+Smart Route Service — Automated Support System
+================================================================================
