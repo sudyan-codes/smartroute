@@ -18,7 +18,7 @@ MAX_TOKENS       = 500                        # Max tokens in bot's reply
 CHUNK_SIZE           = 800    # Characters per chunk (keeps chunks within model token limits)
 CHUNK_OVERLAP        = 100    # Overlap prevents answers from being cut at chunk boundaries
 TOP_K_CHUNKS         = 3      # Retrieve the 3 most relevant chunks per query
-CONFIDENCE_THRESHOLD = 0.70   # Cosine similarity score; below this = check casual or escalate
+CONFIDENCE_THRESHOLD = 0.35   # Cosine similarity score; below this = check casual or escalate
 
 # ─── File Paths ───────────────────────────────────────────────────────────────
 _BASE = os.path.dirname(os.path.abspath(__file__))   # = /path/to/smart_route_chatbot/backend
