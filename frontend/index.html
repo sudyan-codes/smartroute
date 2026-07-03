@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smart Route Service – Support Chat</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ════════════════════ SITE HEADER ════════════════════════ -->
+  <header class="site-header">
+    <div class="header-inner">
+      <img src="logo.jpg" alt="Smart Route Service Logo" class="header-logo" />
+      <span class="logo">Smart Route Service</span>
+      <span class="tagline">Home Internet &amp; Router Support — Mumbai · Kalyan · Thane</span>
+    </div>
+  </header>
+
+  <!-- ════════════════════ PAGE BODY ═════════════════════════ -->
+  <main class="page-layout">
+
+    <!-- ─── Admin: Document Upload Panel ─────────────────── -->
+    <aside class="upload-panel">
+      <h2 class="panel-title">⚙️ Admin Panel</h2>
+      <p class="hint">
+        Upload a knowledge base document so the chatbot can answer customer questions.
+        Accepted formats: <strong>.txt · .pdf · .docx</strong>
+      </p>
+
+      <label class="file-pick-btn" for="doc-input">📂 Choose File</label>
+      <input type="file" id="doc-input" accept=".txt,.pdf,.docx" />
+      <span id="file-name-display">No file chosen</span>
+
+      <button id="upload-btn" onclick="uploadDocument()">Upload &amp; Index</button>
+      <p id="upload-status" class="upload-status"></p>
+
+      <div class="panel-divider"></div>
+      <p class="hint" style="margin-top:0">
+        <strong>First time?</strong> Upload <em>smart_route_knowledge_base.txt</em> before chatting.
+      </p>
+    </aside>
+
+    <!-- ─── Chat Section ──────────────────────────────────── -->
+    <section class="chat-section">
+
+
+      <!-- Message Thread -->
+      <div id="message-thread" class="message-thread" role="log" aria-live="polite">
+        <!-- Messages injected by chat.js -->
+      </div>
+
+      <!-- Typing Indicator (three bouncing dots) -->
+      <div id="typing-indicator" class="typing-wrap hidden">
+        <div class="typing-bubble">
+          <span class="dot"></span>
+          <span class="dot"></span>
+          <span class="dot"></span>
+        </div>
+      </div>
+
+      <!-- Input Bar -->
+      <div class="input-bar">
+        <input
+          type="text"
+          id="user-input"
+          placeholder="Ask about router setup, pricing, booking…"
+          autocomplete="off"
+          onkeydown="if(event.key==='Enter') sendMessage()"
+          aria-label="Type your message"
+        />
+        <button id="send-btn" onclick="sendMessage()">Send ➤</button>
+      </div>
+
+    </section>
+  </main>
+
+  <script src="chat.js"></script>
+</body>
+</html>
