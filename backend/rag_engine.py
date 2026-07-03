@@ -172,7 +172,7 @@ def retrieve(query: str) -> Tuple[List[str], float]:
         top_chunks = [_chunks[i] for i in ix[0] if 0 <= i < len(_chunks)]
         top_score  = float(scores[0][0]) if scores.size > 0 else 0.0
 
-        # Scale sparse TF-IDF score to match dense confidence threshold (0.70)
+        # Scale sparse TF-IDF score to match dense confidence threshold (0.35)
         scaled_score = min(1.0, top_score * 2.5)
 
         return top_chunks, scaled_score
