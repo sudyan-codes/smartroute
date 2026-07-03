@@ -1,0 +1,927 @@
+{
+  "1b7ae5ee-d479-4c98-aa1d-ee51310988e7": {
+    "created_at": "2026-06-28T06:13:14Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hey. My internet is not working since yesterday. fix it now",
+        "timestamp": "2026-06-28T06:17:10Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Senior Support Agent. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T06:17:16Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T06:17:16Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Emotional/urgency signal: sense of urgency"
+      }
+    ]
+  },
+  "793780b9-3ae6-4d95-b2e7-8ab5439c4882": {
+    "created_at": "2026-06-28T06:23:50Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "How can I report an internet outage?",
+        "timestamp": "2026-06-28T06:24:17Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T06:24:24Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T06:24:24Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.56, threshold: 0.70)"
+      }
+    ]
+  },
+  "bffbd854-377e-4ded-8944-c9d58c5f4b69": {
+    "created_at": "2026-06-28T06:54:00Z",
+    "messages": [],
+    "escalations": []
+  },
+  "42c5a888-8f17-4cbd-bbc7-9aad761d44e3": {
+    "created_at": "2026-06-28T07:00:04Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "my internet is not working. Please help.",
+        "timestamp": "2026-06-28T07:00:28Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T07:00:33Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:00:33Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.44, threshold: 0.70)"
+      }
+    ]
+  },
+  "fb4a03c6-2118-44eb-8837-f67ae5895163": {
+    "created_at": "2026-06-28T07:01:38Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Please help me solve this query. What are your timings?",
+        "timestamp": "2026-06-28T07:02:19Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T07:02:25Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:02:25Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.30, threshold: 0.70)"
+      }
+    ]
+  },
+  "c7bb11fc-4e0a-42a1-83f9-e0d12f958a49": {
+    "created_at": "2026-06-28T07:02:38Z",
+    "messages": [],
+    "escalations": []
+  },
+  "9d8175ef-bd87-471b-8d2c-5ce007532c50": {
+    "created_at": "2026-06-28T07:03:21Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "please dont escalate. please",
+        "timestamp": "2026-06-28T07:03:32Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Senior Support Agent. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T07:03:38Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:03:38Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Emotional/urgency signal: The customer is expressing a desire to avoid escalation, indicating potential frustration or concern."
+      }
+    ]
+  },
+  "c544491f-1e29-4091-8418-f6fcb26e989b": {
+    "created_at": "2026-06-28T07:04:58Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "i am a poor guy. please dont escalate",
+        "timestamp": "2026-06-28T07:05:17Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Senior Support Agent. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T07:05:23Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:05:23Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Emotional/urgency signal: The customer expresses a concern about escalation, indicating a sense of urgency or desperation."
+      }
+    ]
+  },
+  "1b736b6b-ec8c-4fd9-b24c-732011f45e2d": {
+    "created_at": "2026-06-28T07:05:47Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "i am a poor guy. please dont escalate.",
+        "timestamp": "2026-06-28T07:06:19Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Senior Support Agent. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T07:06:26Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:06:26Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Emotional/urgency signal: The customer expresses a concern about escalation, indicating a sense of urgency or desperation."
+      }
+    ]
+  },
+  "2564bd05-ce64-4ad0-b54b-16aa2e5435ae": {
+    "created_at": "2026-06-28T07:07:45Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "i am a poor guy. please dont escalate.",
+        "timestamp": "2026-06-28T07:08:00Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Senior Support Agent. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T07:08:06Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:08:06Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Emotional/urgency signal: The customer expresses a concern about escalation, indicating a sense of urgency or desperation."
+      }
+    ]
+  },
+  "2dc233db-591a-4864-a5cb-b849f6b634b5": {
+    "created_at": "2026-06-28T07:10:14Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey. how are you?",
+        "timestamp": "2026-06-28T07:10:23Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T07:10:29Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:10:29Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.32, threshold: 0.70)"
+      }
+    ]
+  },
+  "ec31ffe9-e85e-4702-adcd-9d3410043062": {
+    "created_at": "2026-06-28T07:18:54Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hi",
+        "timestamp": "2026-06-28T07:18:59Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T07:19:05Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:19:05Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.30, threshold: 0.70)"
+      }
+    ]
+  },
+  "ea0fc911-a30a-45dc-98fc-9792bef22881": {
+    "created_at": "2026-06-28T07:19:14Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hi",
+        "timestamp": "2026-06-28T07:19:21Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T07:19:27Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:19:27Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.30, threshold: 0.70)"
+      }
+    ]
+  },
+  "1a6b1255-1409-499c-96da-f610fb312910": {
+    "created_at": "2026-06-28T07:34:08Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hi",
+        "timestamp": "2026-06-28T07:34:20Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?",
+        "timestamp": "2026-06-28T07:34:23Z"
+      },
+      {
+        "role": "user",
+        "content": "Good morning",
+        "timestamp": "2026-06-28T07:35:30Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Good morning! ☀️ Hope you're having a great start to the day. What can I assist you with today?",
+        "timestamp": "2026-06-28T07:35:33Z"
+      },
+      {
+        "role": "user",
+        "content": "What if I'm calm but my issue is still serious?",
+        "timestamp": "2026-06-28T07:35:55Z"
+      },
+      {
+        "role": "assistant",
+        "content": "If you calmly describe a serious issue, such as a prolonged outage or a financial impact, our system will assess the content of your message and escalate it to the appropriate level. You don't need to be upset for your issue to receive priority handling. Please provide as much context as possible so we can help you effectively.",
+        "timestamp": "2026-06-28T07:35:58Z"
+      },
+      {
+        "role": "user",
+        "content": "How do I request to escalate my issue to a manager?",
+        "timestamp": "2026-06-28T07:36:51Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Senior Support Agent. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T07:36:57Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:36:57Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Emotional/urgency signal: explicit request to speak with a manager"
+      }
+    ]
+  },
+  "d5f0d3f9-a547-4800-981d-a0994832339c": {
+    "created_at": "2026-06-28T07:37:33Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "my wifi is not working",
+        "timestamp": "2026-06-28T07:38:13Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Please try restarting your modem and router, checking all cable connections, and verifying whether there is a service outage. If the issue continues, feel free to contact our support team for further assistance.",
+        "timestamp": "2026-06-28T07:38:16Z"
+      },
+      {
+        "role": "user",
+        "content": "i did all that but its not working",
+        "timestamp": "2026-06-28T07:38:32Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Senior Support Agent, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T07:38:38Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:38:38Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.20, threshold: 0.35)"
+      }
+    ]
+  },
+  "f9014b12-8837-4758-9c84-0245e4061eaf": {
+    "created_at": "2026-06-28T07:38:56Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "my wifi is not working since 10 days. i am launching a legal case against you.",
+        "timestamp": "2026-06-28T07:39:38Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Business Director. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T07:39:43Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:39:43Z",
+        "level": 4,
+        "label": "Business Director",
+        "trigger": "Emotional/urgency signal: customer is threatening legal action"
+      }
+    ]
+  },
+  "699166db-8901-4d79-b1a8-79458da21378": {
+    "created_at": "2026-06-28T07:42:20Z",
+    "messages": [],
+    "escalations": []
+  },
+  "7ec428c5-8899-4e61-bc93-d531e740abf1": {
+    "created_at": "2026-06-28T07:47:29Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "legal case is lodged",
+        "timestamp": "2026-06-28T07:47:45Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Support Manager. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T07:47:51Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:47:51Z",
+        "level": 3,
+        "label": "Support Manager",
+        "trigger": "Emotional/urgency signal: Threat of legal action"
+      }
+    ]
+  },
+  "6e5f2a9e-4f04-4768-8b44-b51bbcfde98e": {
+    "created_at": "2026-06-28T07:50:41Z",
+    "messages": [],
+    "escalations": []
+  },
+  "081288c4-8722-4e0c-9f64-cd1836915260": {
+    "created_at": "2026-06-28T07:53:12Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "legal case...haaaaaaaaaaaaaaaaaaa",
+        "timestamp": "2026-06-28T07:53:24Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Business Director. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T07:53:28Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T07:53:28Z",
+        "level": 4,
+        "label": "Business Director",
+        "trigger": "Emotional/urgency signal: Threats: legal action"
+      }
+    ]
+  },
+  "e8e19bc1-a51a-4970-b538-b4a98263bddd": {
+    "created_at": "2026-06-28T07:54:51Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What hours can I reach a human support agent?",
+        "timestamp": "2026-06-28T08:31:00Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Human agents are available Monday to Saturday, 9:00 AM to 7:00 PM. If you contact us outside these hours, your escalation will be logged and a team member will reach out to you on the next working day.",
+        "timestamp": "2026-06-28T08:31:05Z"
+      },
+      {
+        "role": "user",
+        "content": "The question is not in FAQ, how to handle this?",
+        "timestamp": "2026-06-28T08:31:18Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T08:31:28Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T08:31:28Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.32, threshold: 0.35)"
+      }
+    ]
+  },
+  "a220362a-2260-4d5f-92e4-3d4ef5b80726": {
+    "created_at": "2026-06-28T08:31:40Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I am not satisfied with your service",
+        "timestamp": "2026-06-28T08:32:10Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Senior Support Agent, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T08:32:18Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T08:32:17Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.31, threshold: 0.35)"
+      }
+    ]
+  },
+  "f1ce0752-35ce-4dba-b795-49729ad4dab7": {
+    "created_at": "2026-06-28T08:32:51Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I have reached multiple times, still my issue is open",
+        "timestamp": "2026-06-28T08:33:11Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm sorry to hear that your issue is still open. Please mention in the chat that this is a recurring or previously reported issue and provide any reference numbers if available. Our system will escalate this as a repeated unresolved case, which triggers a Support Manager review to ensure your issue is finally resolved.",
+        "timestamp": "2026-06-28T08:33:13Z"
+      },
+      {
+        "role": "user",
+        "content": "please escalate, this has been a recurring issue",
+        "timestamp": "2026-06-28T08:33:43Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Support Manager. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T08:33:50Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T08:33:50Z",
+        "level": 3,
+        "label": "Support Manager",
+        "trigger": "Emotional/urgency signal: explicit request to escalate a recurring issue"
+      }
+    ]
+  },
+  "b0773d8f-5899-4b53-832e-bcfcfd75da19": {
+    "created_at": "2026-06-28T08:34:14Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm considering legal action. Will the chatbot handle this?",
+        "timestamp": "2026-06-28T08:34:35Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Support Manager. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T08:34:40Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T08:34:40Z",
+        "level": 3,
+        "label": "Support Manager",
+        "trigger": "Emotional/urgency signal: customer is considering legal action"
+      }
+    ]
+  },
+  "3db68a2e-dd81-42c3-9dcd-a3106031f5b7": {
+    "created_at": "2026-06-28T08:34:56Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm considering legal action. The issue affected my safety",
+        "timestamp": "2026-06-28T08:35:42Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Business Director. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T08:35:48Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T08:35:48Z",
+        "level": 4,
+        "label": "Business Director",
+        "trigger": "Emotional/urgency signal: Customer mentions considering legal action and indicates a safety concern."
+      }
+    ]
+  },
+  "599b342f-b28c-4ddf-9549-9e8b0c2f7710": {
+    "created_at": "2026-06-28T08:36:18Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What hours can I reach a human support agent?",
+        "timestamp": "2026-06-28T08:36:40Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Human agents are available Monday to Saturday, 9:00 AM to 7:00 PM. If you contact us outside these hours, your escalation will be logged and a team member will reach out to you on the next working day.",
+        "timestamp": "2026-06-28T08:36:42Z"
+      },
+      {
+        "role": "user",
+        "content": "The question is not in FAQ, how to handle this?",
+        "timestamp": "2026-06-28T08:37:01Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Senior Support Agent, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T08:37:09Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T08:37:09Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.32, threshold: 0.35)"
+      }
+    ]
+  },
+  "f8ddf126-d80a-47c2-9f0a-37691404714a": {
+    "created_at": "2026-06-28T08:37:30Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What hours can I reach a human support agent?",
+        "timestamp": "2026-06-28T08:37:47Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Human agents are available Monday to Saturday, 9:00 AM to 7:00 PM. If you contact us outside these hours, your escalation will be logged and a team member will reach out to you on the next working day.",
+        "timestamp": "2026-06-28T08:37:49Z"
+      },
+      {
+        "role": "user",
+        "content": "what is the weather like today?",
+        "timestamp": "2026-06-28T08:38:23Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m not equipped to provide weather updates, but I hope it’s a beautiful day in Mumbai, Kalyan, or Thane! If you have any questions or need assistance, feel free to ask.",
+        "timestamp": "2026-06-28T08:38:28Z"
+      }
+    ],
+    "escalations": []
+  },
+  "ac6eb0d3-7fd0-4cf1-a793-8dc666c6bdf8": {
+    "created_at": "2026-06-28T08:38:39Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I have a personal router it does not work on my office laptop",
+        "timestamp": "2026-06-28T08:39:10Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-06-28T08:39:18Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T08:39:18Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.32, threshold: 0.35)"
+      }
+    ]
+  },
+  "17abb136-85c5-481f-80d5-ab0169704263": {
+    "created_at": "2026-06-28T08:39:37Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What hours can I reach a human support agent?",
+        "timestamp": "2026-06-28T09:00:16Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Human agents are available Monday to Saturday, 9:00 AM to 7:00 PM. If you contact us outside these hours, your escalation will be logged and a team member will reach out to you on the next working day.",
+        "timestamp": "2026-06-28T09:00:19Z"
+      }
+    ],
+    "escalations": []
+  },
+  "d538a25c-9bf0-4e2d-99e8-a4e51b46b4a6": {
+    "created_at": "2026-06-28T08:39:46Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "The question is not in Frequently Asked Questions, how to handle this?",
+        "timestamp": "2026-06-28T09:00:50Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have that specific information right now. A member of our team will follow up with you shortly.",
+        "timestamp": "2026-06-28T09:00:53Z"
+      },
+      {
+        "role": "user",
+        "content": "Please escalate",
+        "timestamp": "2026-06-28T09:01:02Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Senior Support Agent. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T09:01:08Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T09:01:08Z",
+        "level": 2,
+        "label": "Senior Support Agent",
+        "trigger": "Emotional/urgency signal: explicit request to escalate the issue"
+      }
+    ]
+  },
+  "4c446625-42f7-4a79-afc1-c18bbc742faf": {
+    "created_at": "2026-06-28T08:39:50Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Legal and Safety concerns, please get back immediately",
+        "timestamp": "2026-06-28T09:01:47Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Business Director. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-06-28T09:01:52Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-06-28T09:01:52Z",
+        "level": 4,
+        "label": "Business Director",
+        "trigger": "Emotional/urgency signal: Legal and safety concerns expressed, indicating urgency."
+      }
+    ]
+  },
+  "f054efbf-1407-4d02-944a-5b0d96ff4df7": {
+    "created_at": "2026-06-28T08:39:54Z",
+    "messages": [],
+    "escalations": []
+  },
+  "5d09c1d1-e983-4da9-b874-2af0780cc4a0": {
+    "created_at": "2026-06-28T08:39:56Z",
+    "messages": [],
+    "escalations": []
+  },
+  "f018f09f-dfb4-447a-a3b7-8ad7f258b83c": {
+    "created_at": "2026-07-02T18:09:01Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hi",
+        "timestamp": "2026-07-02T18:09:53Z"
+      }
+    ],
+    "escalations": []
+  },
+  "a1ee64f4-87f4-4432-9636-f9802654b478": {
+    "created_at": "2026-07-02T18:11:04Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-07-02T18:11:39Z"
+      },
+      {
+        "role": "user",
+        "content": "I want to speak to a human",
+        "timestamp": "2026-07-02T18:12:44Z"
+      }
+    ],
+    "escalations": []
+  },
+  "0dfc2334-a81e-466e-84e6-9c42a99e6cbc": {
+    "created_at": "2026-07-02T18:16:09Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-07-02T18:16:42Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have that specific information right now. A member of our team will follow up with you shortly.",
+        "timestamp": "2026-07-02T18:16:48Z"
+      },
+      {
+        "role": "user",
+        "content": "I want to speak to a human",
+        "timestamp": "2026-07-02T18:17:52Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Tier 1 Support. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-07-02T18:17:58Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-07-02T18:17:57Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Emotional/urgency signal: Request for human support (keyword: 'human')"
+      }
+    ]
+  },
+  "08437122-5e5b-4b4c-a670-6b181b37dfa6": {
+    "created_at": "2026-07-02T18:23:51Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is customer support available 24/7?",
+        "timestamp": "2026-07-02T18:26:46Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-07-02T18:26:54Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-07-02T18:26:54Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.00, threshold: 0.7)"
+      }
+    ]
+  },
+  "7c5688f2-c8f4-4899-90da-3f6cad271c62": {
+    "created_at": "2026-07-02T18:27:21Z",
+    "messages": [],
+    "escalations": []
+  },
+  "7aa08075-8d75-4218-98fd-a4e2360f6546": {
+    "created_at": "2026-07-02T18:30:33Z",
+    "messages": [],
+    "escalations": []
+  },
+  "80af4d1c-5198-4330-989c-bcb8f144e1dc": {
+    "created_at": "2026-07-02T18:33:08Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hi",
+        "timestamp": "2026-07-02T18:33:32Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello, it's nice to talk to you. How can I assist you with your home internet or router setup today?",
+        "timestamp": "2026-07-02T18:33:34Z"
+      },
+      {
+        "role": "user",
+        "content": "what are your services?",
+        "timestamp": "2026-07-02T18:33:46Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-07-02T18:33:51Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-07-02T18:33:51Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.27, threshold: 0.7)"
+      }
+    ]
+  },
+  "466a59d5-4347-4674-840c-a6f192fce172": {
+    "created_at": "2026-07-02T18:33:59Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hi. is your service open 24/7?",
+        "timestamp": "2026-07-02T18:34:23Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-07-02T18:34:27Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-07-02T18:34:27Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.23, threshold: 0.7)"
+      }
+    ]
+  },
+  "test-session": {
+    "created_at": "2026-07-03T11:41:23Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is customer support available 24/7?",
+        "timestamp": "2026-07-03T11:41:23Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I don't have the specific information needed to answer your question confidently. I've connected you with our Tier 1 Support, and someone will reach out to you shortly.",
+        "timestamp": "2026-07-03T11:41:27Z"
+      },
+      {
+        "role": "user",
+        "content": "Is customer support available 24/7?",
+        "timestamp": "2026-07-03T11:42:07Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, our technical support team is available 24 hours a day, 7 days a week to assist with internet-related issues.",
+        "timestamp": "2026-07-03T11:42:08Z"
+      },
+      {
+        "role": "user",
+        "content": "This is absolutely unacceptable, you people are useless! I need this fixed immediately or I am filing a complaint!",
+        "timestamp": "2026-07-03T11:42:14Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I can see you're having a really difficult experience, and I'm truly sorry. I've immediately escalated your case to our Support Manager. A member of our team will follow up with you very shortly.",
+        "timestamp": "2026-07-03T11:42:18Z"
+      }
+    ],
+    "escalations": [
+      {
+        "timestamp": "2026-07-03T11:41:27Z",
+        "level": 1,
+        "label": "Tier 1 Support",
+        "trigger": "Knowledge gap — no confident answer found in knowledge base (retrieval score: 0.33, threshold: 0.7)"
+      },
+      {
+        "timestamp": "2026-07-03T11:42:18Z",
+        "level": 3,
+        "label": "Support Manager",
+        "trigger": "Emotional/urgency signal: clear anger and threat of filing a complaint"
+      }
+    ]
+  }
+}
