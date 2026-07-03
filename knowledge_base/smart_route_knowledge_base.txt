@@ -1,0 +1,16 @@
+FAQ
+Q1: Is customer support available 24/7?
+A: Yes. Our technical support team is available 24 hours a day, 7 days a week to assist with internet-related issues.
+Q2: What should I do if my internet is not working?
+A: Restart your modem and router, check all cable connections, and verify whether there is a service outage. If the issue continues, contact our support team.
+Q3: Why is my internet running slowly?
+A: Slow speeds may result from network congestion, multiple connected devices, Wi-Fi interference, or equipment issues. Running a speed test and restarting your router can often help.
+Q4: How can I report an internet outage?
+A: You can report an outage by calling our support hotline, using the mobile app, or contacting us through live chat.
+Q5: How long does it take to resolve technical issues?
+A: Resolution times vary depending on the issue. Many problems are resolved remotely within a few hours, while hardware or infrastructure issues may require an on-site technician visit.
+Q6: Can I receive updates on my service request?
+A: Yes. You can track the status of your support ticket through the customer portal, mobile app, or by contacting customer support.
+Q7: What information should I have ready when contacting support?
+A: Please have your account number, registered phone number, service address, and a brief description of the issue available to help us assist you more quickly.
+
